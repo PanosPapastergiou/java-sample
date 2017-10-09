@@ -1,5 +1,6 @@
 public class Test{
-private
+private int i=5;
+
 
 
 
