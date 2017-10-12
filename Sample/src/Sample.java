@@ -24,7 +24,7 @@ public class Sample {
     System.out.println(a.getFirst());
     System.out.println( a.getSecond());
    
-    /* Δεν αλλάζουν
+    /* Δεν αλλάζουν.
     two.swap(a.getFirst(),a.getSecond());
     System.out.println(a.getFirst());
     System.out.println(a.getSecond())
